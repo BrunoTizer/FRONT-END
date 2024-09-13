@@ -1,0 +1,23 @@
+/*Reset*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.box {
+  width: 240px;
+  height: 200px;
+
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+
+  margin-top: 16px;
+  
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
