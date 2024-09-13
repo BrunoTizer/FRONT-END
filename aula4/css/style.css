@@ -49,3 +49,9 @@ h1 {
   background-color: lightgray;
   border-bottom: 1px solid darkred;
 }
+
+.main-image {
+  width: 400px;
+  float: left;
+  margin-right: 16px;
+}
